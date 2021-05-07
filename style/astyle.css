@@ -189,6 +189,6 @@ nav{
     position: relative;
     background-image: url('../images/afondo.png');
     background-size: cover;
-    background-position: left;
+    background-position: center;
     height: 100vh;
   }

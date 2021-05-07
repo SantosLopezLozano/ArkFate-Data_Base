@@ -188,6 +188,6 @@ nav{
     position: relative;
     background-image: url('../images/ffondo.png');
     background-size: cover;
-    background-position: left;
+    background-position: 65%;
     height: 100vh;
   }
