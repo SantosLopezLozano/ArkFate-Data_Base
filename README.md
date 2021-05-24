@@ -33,10 +33,19 @@ o lo quiere actualizar tiene la opción de modificar justo al lado de borrar.
 <img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/modificaservant.png?sanitize=true&raw=true" /><br>
 
 
+
 <br>Si ahora nos dirigimos a la opción de objetos podemons observar algo similar al apartado servants pero con los objetos, y en efecto tiene la misma función: almacenar
 los datos de los objetos que ya tiene. Y de la misma manera puede tanto añadir como borrar o modificar para que sea completamente personalizado por el usuario dueño de la
 pagina<br>
 <br><img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/objetos.png?sanitize=true&raw=true" />
 <img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/modificaobjeto.png?sanitize=true&raw=true" /><br>
+
+<br>En el juego hay ciertos niveles que no están disponibles todos los dias, sino que hay una rotación diaria. Ni los más avezados jugadores recuerdan
+el orden de los niveles puesto que es algo no muy importante. Sin embargo no queremos que te olvides de hacer el nivel que te interesa por no acordarte
+del dia que tocaba así que en la función de "rotaciones diarias" hemos añadido dicho horario para que lo tengas siempre a mano, ya que no en el juego mismo aparece<br>
+
+<br><img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/rotaciones.png?sanitize=true&raw=true" /><br>
+
+
 
 
