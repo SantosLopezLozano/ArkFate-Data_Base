@@ -8,18 +8,18 @@ desde la pagina
 
 Nada más entrar Se podrá observar una pantalla dividida en dos con diferentes juegos
 Pese a que ambas opciones son igual de buenas solo está funcional la izquierda, que es
-suficiente para lo que nos atañe en el trabajo
+suficiente para lo que nos atañe en el trabajo<br>
 
 <br>
-<img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/inicio.png?sanitize=true&raw=true" />
+<br><img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/inicio.png?sanitize=true&raw=true" /><br>
 
 
 
-Pulsar en Fate/Grand Order Nos llevará a la pestaña de inicio de este apartado que consta
+<br>Pulsar en Fate/Grand Order Nos llevará a la pestaña de inicio de este apartado que consta
 tan solo de un apartado visual que hace de Hub para que el usuario se introduzca en la
-opció que quiera a partir de ahí
+opció que quiera a partir de ahí<br>
 
 
-<img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/inicio2.png?sanitize=true&raw=true" />
+<br><img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/inicio2.png?sanitize=true&raw=true" /><br>
 
 
