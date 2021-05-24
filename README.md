@@ -1,2 +1,2 @@
 # ArkFate-Data_Base
-https://santoslopezlozano.github.io/ArkFate-Data_Base/index.html
+Esta es una página que almacena los personajes que te tocan de un juego
