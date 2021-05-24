@@ -33,3 +33,10 @@ o lo quiere actualizar tiene la opción de modificar justo al lado de borrar.
 <img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/modificaservant.png?sanitize=true&raw=true" /><br>
 
 
+<br>Si ahora nos dirigimos a la opción de objetos podemons observar algo similar al apartado servants pero con los objetos, y en efecto tiene la misma función: almacenar
+los datos de los objetos que ya tiene. Y de la misma manera puede tanto añadir como borrar o modificar para que sea completamente personalizado por el usuario dueño de la
+pagina<br>
+<br><img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/objetos.png?sanitize=true&raw=true" />
+<img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/modificaobjetos.png?sanitize=true&raw=true" /><br>
+
+
