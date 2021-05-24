@@ -23,3 +23,9 @@ opció que quiera a partir de ahí<br>
 <br><img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/inicio2.png?sanitize=true&raw=true" /><br>
 
 
+<br>La primera y principal funcion de la pagina es administrar a tus personajes, así que nos dirigimos a la opción "Servants" de la barra de navegación
+
+
+<br><img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/servants.png?sanitize=true&raw=true" /><br>
+
+
