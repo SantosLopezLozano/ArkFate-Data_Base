@@ -16,7 +16,6 @@ nav{
     background-color: #131418;
     box-shadow: 0 3px 20px rgba(0, 0, 0, 0.2);
     display: flex;
-    position: fixed;
     z-index: 10;
 }
 
@@ -189,5 +188,10 @@ nav{
     background-image: url('../images/ffondo.png');
     background-size: cover;
     background-position: 65%;
-    height: 100vh;
+    height: 91vh;
   }
+  
+#tablita2{
+    margin: 10%;
+    width: 80vw;
+}
