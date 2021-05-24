@@ -10,4 +10,5 @@ Nada más entrar Se podrá observar una pantalla dividida en dos con diferentes 
 Pese a que ambas opciones son iguao de buenas solo está funcional la izquierda, que es
 suficiente para lo que nos atañe en el trabajo
 
-<img src="https://raw.githubusercontent.com/YourUserAccount/YourProject/master/DirectoryPath/Example.png?sanitize=true&raw=true" />
+<img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/inicio.png?sanitize=true&raw=true" />
+
