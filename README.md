@@ -29,6 +29,7 @@ En ella podemos ver una lista con unos personajes ya establecidos por defecto, p
 o lo quiere actualizar tiene la opción de modificar justo al lado de borrar.
 
 
-<br><img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/servants.png?sanitize=true&raw=true" /><br>
+<br><img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/servants.png?sanitize=true&raw=true" />
+<img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/modificaservant.png?sanitize=true&raw=true" /><br>
 
 
