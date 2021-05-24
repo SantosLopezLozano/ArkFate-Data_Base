@@ -42,9 +42,13 @@ pagina<br>
 
 <br>En el juego hay ciertos niveles que no están disponibles todos los dias, sino que hay una rotación diaria. Ni los más avezados jugadores recuerdan
 el orden de los niveles puesto que es algo no muy importante. Sin embargo no queremos que te olvides de hacer el nivel que te interesa por no acordarte
-del dia que tocaba así que en la función de "rotaciones diarias" hemos añadido dicho horario para que lo tengas siempre a mano, ya que no en el juego mismo aparece<br>
+del dia que tocaba así que en la función de "rotaciones diarias" hemos añadido dicho horario para que lo tengas siempre a mano, ya que ni en el juego mismo aparece<br>
 
 <br><img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/rotaciones.png?sanitize=true&raw=true" /><br>
+
+<br>Por último lo más interesante, los banners; Puesto que el juego está en constante actualización nuevos banners pueden llegar sin noticia alguna al servidor y sorprender
+a los jugadores. Pero aunque no se anuncien dichos banners en el juego si que se tienen noticias de cuales serán los próximos que salgan. Pues tras mucho esfuerzo podemos
+predecir que saldrá acontinuación y para que os podáis preparar con tiempo nos comprometemos a actualizar la lista para que nunca os falte información
 
 
 
