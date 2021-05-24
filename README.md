@@ -12,3 +12,10 @@ suficiente para lo que nos atañe en el trabajo
 
 <img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/inicio.png?sanitize=true&raw=true" />
 
+Pulsar en Fate/Grand Order Nos llevará a la pestaña de inicio de este apartado que consta
+tan solo de un apartado visual que hace de Hub para que el usuario se introduzca en la
+opció que quiera a partir de ahí
+
+<img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/inicio2.png?sanitize=true&raw=true" />
+
+
