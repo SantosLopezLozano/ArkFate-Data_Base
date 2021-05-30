@@ -1,0 +1,61 @@
+
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+
+.contenedor{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: #6A737C;
+}
+
+#div1 {
+    background-image:url('../images/izquierda.png');
+    width: 50%;
+    display: flex;
+    float: left;
+    background-size: cover;
+    display: block;
+    background-position: 25%;
+}
+
+#div1 img {
+    width: 100%;
+    display: flex;
+    float: left;
+    display: block;
+    margin-top: 25vh;
+}
+
+#div2 {
+    background-image: url('../images/derecha.png');
+    width: 50%;
+    display: flex;
+    float: left;
+    background-size: cover;
+    display: block;
+    background-position: center;
+    filter: grayscale(1) blur(2px);
+}
+
+
+#div2 img{
+    width: 100%;
+    display: flex;
+    float: left;
+    background-size: cover;
+    display: block;
+    background-position: center;
+    margin-top: 30vh;
+}
