@@ -48,7 +48,7 @@ del dia que tocaba así que en la función de "rotaciones diarias" hemos añadid
 
 <br>Por último lo más interesante, los banners; Puesto que el juego está en constante actualización nuevos banners pueden llegar sin noticia alguna al servidor y sorprender
 a los jugadores. Pero aunque no se anuncien dichos banners en el juego si que se tienen noticias de cuales serán los próximos que salgan. Pues tras mucho esfuerzo podemos
-predecir que saldrá acontinuación y para que os podáis preparar con tiempo nos comprometemos a actualizar la lista para que nunca os falte información
+predecir que saldrá acontinuación y para que os podáis preparar con tiempo nos comprometemos a actualizar la lista para que nunca os falte información.
 
 <br><img src="https://raw.githubusercontent.com/SantosLopezLozano/ArkFate-Data_Base/master/imagenes/banners.png?sanitize=true&raw=true" /><br>
 
